@@ -33,6 +33,16 @@ Before you move on, go ahead and explore the repository. You've already seen the
 
 ---
 
+##SetUp the Project
+## Steps  
+
+1. **Clone the repository**: Download the project to your local system using Git.  
+2. **Navigate to the project folder**: Move into the project directory where the code is stored.  
+3. **Install dependencies**: Use `npm install` to install all required packages.  
+4. **Start the application**: Run `npm start` to launch the app.  
+5. **Access the application**: Open your browser and go to `http://localhost:3000` to see the running app.  
+
+
 ## Clone a repository
 
 Use these steps to clone from SourceTree, our client for using the repository command-line free. Cloning allows you to work on your files locally. If you don't yet have SourceTree, [download and install first](https://www.sourcetreeapp.com/). If you prefer to clone from the command line, see [Clone a repository](https://confluence.atlassian.com/x/4whODQ).
